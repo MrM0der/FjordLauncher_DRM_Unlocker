@@ -1,0 +1,76 @@
+{
+    "accounts": [
+        {
+            "active": true,
+            "entitlement": {
+                "canPlayMinecraft": true,
+                "ownsMinecraft": true
+            },
+            "msa": {
+                "exp": 0,
+                "refresh_token": ""
+            },
+            "msa-client-id": "",
+            "profile": {
+                "cape": "",
+                "capes": [
+                    {
+                        "alias": "",
+                        "id": "",
+                        "url": ""
+                    },
+                    {
+                        "alias": "",
+                        "id": "",
+                        "url": ""
+                    }
+                ],
+                "id": "",
+                "name": "Fjord Hack",
+                "skin": {
+                    "data": "",
+                    "id": "",
+                    "url": "",
+                    "variant": "SLIM"
+                }
+            },
+            "type": "MSA",
+            "utoken": {
+                "exp": 0,
+                "extra": {
+                    "uhs": ""
+                },
+                "iat": 0,
+                "token": ""
+            },
+            "xrp-main": {
+                "exp": 0,
+                "extra": {
+                    "agg": "",
+                    "gtg": "",
+                    "prv": "",
+                    "uhs": "",
+                    "usr": "",
+                    "utr": "",
+                    "xid": ""
+                },
+                "iat": 0,
+                "token": ""
+            },
+            "xrp-mc": {
+                "exp": 0,
+                "extra": {
+                    "uhs": ""
+                },
+                "iat": 0,
+                "token": ""
+            },
+            "ygg": {
+                "exp": 0,
+                "iat": 0,
+                "token": ""
+            }
+        }
+    ],
+    "formatVersion": 3
+}
